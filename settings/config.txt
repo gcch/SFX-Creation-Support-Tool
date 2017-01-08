@@ -1,0 +1,7 @@
+;!@Install@!UTF-8!
+;InstallPath="%SystemDrive%\\Temp"
+GUIMode="2"
+;ExecuteFile="Setup.exe"
+;ExecuteParameters="arg1 arg2 ..."
+RunProgram="Setup.bat"
+;!@InstallEnd@!
